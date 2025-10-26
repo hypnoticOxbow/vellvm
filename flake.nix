@@ -2,7 +2,7 @@
   description = "Vellvm, a formal specification and interpreter for LLVM";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/master";
+    nixpkgs.url = "github:nixos/nixpkgs/7c1ef2ca629a13e772f8903236a56330fc0734a0";
     flake-utils.url = "github:numtide/flake-utils";
     nix-filter.url = "github:numtide/nix-filter";
   };
